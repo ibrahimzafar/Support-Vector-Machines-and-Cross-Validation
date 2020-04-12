@@ -21,6 +21,7 @@ One strategy is dividing the dataset into three sets - Training, Validation and 
 This may be in a 60-20-20 fashion, 70-15-15. <br>
 
 ![alt text](https://github.com/ibrahimzafar/Support-Vector-Machines-and-Cross-Validation/blob/master/60_20_20.PNG "Train Validation Test") <br>
+Picture taken from https://mc.ai/machine-learning-basics-train-test-and-validation-datasets/ <br>
 
 This strategy works really well for most applications. <br>
 The Train-Validation-Test split for means that the examples that are in the Validation nd Test sets would not be used for training. <br>
